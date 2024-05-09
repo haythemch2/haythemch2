@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **React.js , Next.js , EVM**
 
-- 📫 How to reach me **https://cal.com/haythemch/lets-connect**
+- 📫 How to reach me **https://cal.com/haythem-ch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
